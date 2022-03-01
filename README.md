@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A normal person who is learning kotlin and android programming</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+-  I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Firebase, Retrofit, Room, MVVM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
